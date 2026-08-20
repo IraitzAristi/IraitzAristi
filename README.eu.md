@@ -25,7 +25,7 @@
 
 Sistemetatik eta sareetatik nator (SMR, orain ASIR) eta **segurtasun ofentsiborantz** noa. Gauzek barrutik nola funtzionatzen duten ulertzea interesatzen zait: azpiegitura bat nola eusten den, non huts egiten duen eta nola erasotu (eta babestu).
 
-Eraikiz eta suntsituz ikasten dut. Nire proiektuek eta writeup-ek hori erakusten dute: bakoitzak kasu oso bat jorratzen du, hasierako enumeraziotik helbururaino.
+Eraikiz eta suntsituz ikasten dut. Nire proiektuek eta writeup-ek hori erakusten dute, bakoitzak kasu oso bat jorratzen du, hasierako enumeraziotik helbururaino.
 
 Gaur egun **ASIR** gradua ikasten dut, ingurune kontrolatuetan laborategiak ebazten ditudan bitartean (CTFak, Hack The Box, TryHackMe) eta **Bug Bounty** programetan parte hartzen dut (VDPak eta bountyak).
 
