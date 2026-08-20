@@ -23,10 +23,11 @@
 
 ### › Sobre mí
 
-Vengo de sistemas y redes (SMR, ahora ASIR) y me muevo hacia la **seguridad ofensiva**.
-Me gusta entender cómo funcionan las cosas por dentro para saber cómo romperlas — y cómo
-protegerlas. Aprendo construyendo: monto infraestructuras, las ataco con mis propias
-herramientas y documento todo el proceso.
+Vengo de sistemas y redes (SMR, ahora ASIR) y me muevo hacia la **seguridad ofensiva**. Me interesa entender cómo funcionan las cosas por dentro: cómo se sostiene una infraestructura, por dónde falla y cómo atacarla — y cómo protegerla.
+
+Aprendo construyendo y destruyendo. Mis proyectos y writeups lo demuestran: cada uno recorre un caso completo, desde la enumeración inicial hasta el objetivo.
+
+Actualmente estudio el grado de **ASIR** mientras resuelvo laboratorios en entornos controlados (CTFs, Hack The Box, TryHackMe) y participo en programas de **Bug Bounty** (VDPs y bounties).
 
 ```yaml
 rol:        Sistemas · Redes · Hacking Ético
@@ -55,12 +56,10 @@ idiomas:    Euskara · Castellano · English
 ### › Proyectos destacados
 
 🌐 **Red empresarial virtualizada + suite de ciberseguridad**
-Red completa (LAN/DMZ/WAN) con VPN, firewall y servicios, auditada de principio a fin
-con herramientas propias en Python — ofensivas y defensivas.
+Red completa (LAN/DMZ/WAN) con VPN, firewall y servicios, auditada de principio a fin con herramientas propias en Python — ofensivas y defensivas.
 
 🗃️ **Gestor de cuentas (C#)**
-De versión procedural a orientada a objetos, con un módulo de auditoría de contraseñas
-débiles. Un ejercicio convertido en proyecto a base de refactorizar.
+De versión procedural a orientada a objetos, con un módulo de auditoría de contraseñas débiles. Un ejercicio convertido en proyecto a base de refactorizar.
 
 > 📄 Writeups y detalle completo en el **[portfolio](https://iraitzaristi.github.io)**.
 
