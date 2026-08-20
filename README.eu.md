@@ -23,10 +23,11 @@
 
 ### › Niri buruz
 
-Sistemetatik eta sareetatik nator (SMR, orain ASIR) eta **segurtasun ofentsiborantz**
-noa. Gauzak barrutik nola funtzionatzen duten ulertzea gustatzen zait, nola hautsi —
-eta nola babestu— jakiteko. Eraikitzen ikasten dut: azpiegiturak muntatzen ditut, nire
-tresna propioekin erasotzen ditut eta prozesu osoa dokumentatzen dut.
+Sistemetatik eta sareetatik nator (SMR, orain ASIR) eta **segurtasun ofentsiborantz** noa. Gauzek barrutik nola funtzionatzen duten ulertzea interesatzen zait: azpiegitura bat nola eusten den, non huts egiten duen eta nola erasotu — eta nola babestu.
+
+Eraikiz eta suntsituz ikasten dut. Nire proiektuek eta writeup-ek hori erakusten dute: bakoitzak kasu oso bat jorratzen du, hasierako enumeraziotik helbururaino.
+
+Gaur egun **ASIR** gradua ikasten dut, ingurune kontrolatuetan laborategiak ebazten ditudan bitartean (CTFak, Hack The Box, TryHackMe) eta **Bug Bounty** programetan parte hartzen dut (VDPak eta bountyak).
 
 ```yaml
 rola:        Sistemak · Sareak · Hacking Etikoa
@@ -55,12 +56,10 @@ hizkuntzak:  Euskara · Castellano · English
 ### › Proiektu nabarmenak
 
 🌐 **Enpresa-sare birtualizatua + zibersegurtasun tresneria**
-Sare osoa (LAN/DMZ/WAN) VPN, suebaki eta zerbitzuekin, hasieratik amaierara arte
-auditatua Python-eko tresna propioekin — ofentsiboak eta defentsiboak.
+Sare osoa (LAN/DMZ/WAN) VPN, suebaki eta zerbitzuekin, hasieratik amaierara arte auditatua Python-eko tresna propioekin — ofentsiboak eta defentsiboak.
 
 🗃️ **Kontuen kudeatzailea (C#)**
-Bertsio prozeduraletik objektuetara orientatura, pasahitz ahulen auditoretza modulu
-batekin. Ariketa bat proiektu bihurtu da refactoring-aren bidez.
+Bertsio prozeduraletik objektuetara orientatura, pasahitz ahulen auditoretza modulu batekin. Ariketa bat proiektu bihurtu da refactoring-aren bidez.
 
 > 📄 Writeup-ak eta xehetasun osoa **[portfolioan](https://iraitzaristi.github.io)**.
 
