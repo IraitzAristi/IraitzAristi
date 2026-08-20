@@ -1,4 +1,4 @@
-<h1 align="center">Kaixo, I'm Iraitz 👋</h1>
+<h1 align="center">Iraitz Aristi</h1>
 <p align="center">
   <b>Sistemas · Redes · Ciberseguridad & Hacking Ético</b><br>
   eJPTv2 · Estudiante de ASIR · CTF player
