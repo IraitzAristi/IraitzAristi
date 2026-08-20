@@ -23,9 +23,9 @@
 
 ### › About me
 
-I come from systems and networking (SMR, now ASIR) and I'm moving toward **offensive security**. I'm interested in how things work under the hood: how an infrastructure holds together, where it breaks and how to attack it — and how to protect it.
+I come from systems and networking (SMR, now ASIR) and I'm moving toward **offensive security**. I'm interested in how things work under the hood: how an infrastructure holds together, where it breaks and how to attack it (and protect it).
 
-I learn by building and breaking. My projects and writeups show it: each one walks through a full case, from initial enumeration to the objective.
+I learn by building and breaking. My projects and writeups show it, each one walks through a full case, from initial enumeration to the objective.
 
 I'm currently studying my **ASIR** degree while solving labs in controlled environments (CTFs, Hack The Box, TryHackMe) and taking part in **Bug Bounty** programs (VDPs and bounties).
 
