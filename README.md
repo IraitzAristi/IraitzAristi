@@ -49,7 +49,7 @@ idiomas:    Euskara · Castellano · English
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 
-**Áreas:** pentesting · enumeración y explotación web · redes (TCP/IP, LAN/DMZ) · hardening · Active Directory
+**Áreas:** pentesting · enumeración y explotación web · redes (TCP/IP, LAN/DMZ) · CTF · Active Directory
 
 ---
 
