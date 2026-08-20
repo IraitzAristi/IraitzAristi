@@ -23,9 +23,10 @@
 
 ### › Sobre mí
 
-Vengo de sistemas y redes (SMR, ahora ASIR) y me muevo hacia la seguridad ofensiva. Me interesa entender cómo funcionan las cosas por dentro: cómo se sostiene una infraestructura, por dónde falla y cómo atacarla (y protege).
-Aprendo construyendo y destruyendo, mis proyectos y writeups lo demuestran, cada uno recorre un caso completo, desde la enumeración inicial al objetivo.
-Actualmente estudio el grado de ASIR mientras resuelvo laboratorios en entornos controlados (CTFs, HTB, TryHackMe) y Bug Bounty (VDPs y Bounties).
+Vengo de sistemas y redes (SMR, ahora ASIR) y me muevo hacia la **seguridad ofensiva**.
+Me gusta entender cómo funcionan las cosas por dentro para saber cómo romperlas — y cómo
+protegerlas. Aprendo construyendo: monto infraestructuras, las ataco con mis propias
+herramientas y documento todo el proceso.
 
 ```yaml
 rol:        Sistemas · Redes · Hacking Ético
