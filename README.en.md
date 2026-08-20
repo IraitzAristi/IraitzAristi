@@ -23,10 +23,11 @@
 
 ### › About me
 
-I come from systems and networking (SMR, now ASIR) and I'm moving toward **offensive
-security**. I like understanding how things work under the hood to learn how to break
-them — and how to protect them. I learn by building: I set up infrastructure, attack it
-with my own tools, and document the whole process.
+I come from systems and networking (SMR, now ASIR) and I'm moving toward **offensive security**. I'm interested in how things work under the hood: how an infrastructure holds together, where it breaks and how to attack it — and how to protect it.
+
+I learn by building and breaking. My projects and writeups show it: each one walks through a full case, from initial enumeration to the objective.
+
+I'm currently studying my **ASIR** degree while solving labs in controlled environments (CTFs, Hack The Box, TryHackMe) and taking part in **Bug Bounty** programs (VDPs and bounties).
 
 ```yaml
 role:      Systems · Networks · Ethical Hacking
@@ -55,12 +56,10 @@ languages: Euskara · Castellano · English
 ### › Featured projects
 
 🌐 **Virtualized enterprise network + security toolkit**
-Full network (LAN/DMZ/WAN) with VPN, firewall and services, audited end to end with my
-own Python tools — offensive and defensive.
+Full network (LAN/DMZ/WAN) with VPN, firewall and services, audited end to end with my own Python tools — offensive and defensive.
 
 🗃️ **Account manager (C#)**
-From procedural to object-oriented, with a weak-password auditing module. An exercise
-turned into a project through refactoring.
+From procedural to object-oriented, with a weak-password auditing module. An exercise turned into a project through refactoring.
 
 > 📄 Writeups and full detail on my **[portfolio](https://iraitzaristi.github.io)**.
 
