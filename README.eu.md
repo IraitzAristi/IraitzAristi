@@ -23,7 +23,7 @@
 
 ### › Niri buruz
 
-Sistemetatik eta sareetatik nator (SMR, orain ASIR) eta **segurtasun ofentsiborantz** noa. Gauzek barrutik nola funtzionatzen duten ulertzea interesatzen zait: azpiegitura bat nola eusten den, non huts egiten duen eta nola erasotu — eta nola babestu.
+Sistemetatik eta sareetatik nator (SMR, orain ASIR) eta **segurtasun ofentsiborantz** noa. Gauzek barrutik nola funtzionatzen duten ulertzea interesatzen zait: azpiegitura bat nola eusten den, non huts egiten duen eta nola erasotu (eta babestu).
 
 Eraikiz eta suntsituz ikasten dut. Nire proiektuek eta writeup-ek hori erakusten dute: bakoitzak kasu oso bat jorratzen du, hasierako enumeraziotik helbururaino.
 
