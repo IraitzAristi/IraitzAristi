@@ -23,9 +23,9 @@
 
 ### › Sobre mí
 
-Vengo de sistemas y redes (SMR, ahora ASIR) y me muevo de lleno hacia la **seguridad ofensiva y el red team**. Me interesa entender cómo funcionan las cosas por dentro: cómo se sostiene una infraestructura, por dónde falla y cómo atacarla — y protegerla.
+Vengo de sistemas y redes (SMR, ahora ASIR) y me muevo de lleno hacia la **seguridad ofensiva y el red team**. Me interesa entender cómo funcionan las cosas por dentro: cómo se sostiene una infraestructura, por dónde falla y cómo atacarla (y protegerla).
 
-Aprendo construyendo y destruyendo. Mis proyectos y writeups lo demuestran: cada uno recorre un caso completo, desde la enumeración inicial hasta el objetivo, mapeado a **MITRE ATT&CK** y con la perspectiva de detección.
+Aprendo construyendo y destruyendo. Mis proyectos y writeups lo demuestran, ya que cada uno recorre un caso completo, desde la enumeración inicial hasta el objetivo, mapeado a **MITRE ATT&CK** y con la perspectiva de detección.
 
 Actualmente estudio **ASIR** mientras resuelvo laboratorios en entornos controlados (Hack The Box, TryHackMe, CTFs) y participo en programas de **Bug Bounty / VDP**.
 
