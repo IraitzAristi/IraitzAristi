@@ -56,7 +56,7 @@ languages: Euskara · Castellano · English
 ### › Featured projects
 
 🌐 **Virtualized enterprise network + security toolkit**
-Full network (LAN/DMZ/WAN) with VPN, firewall and services, audited end to end with my own Python tools — offensive and defensive.
+Full network (LAN/DMZ/WAN) with VPN, firewall and services, audited end to end with my own Python tools, offensive and defensive.
 
 🗃️ **Account manager (C#)**
 From procedural to object-oriented, with a weak-password auditing module. An exercise turned into a project through refactoring.
