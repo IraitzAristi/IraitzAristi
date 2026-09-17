@@ -55,8 +55,8 @@ hizkuntzak:  Euskara · Castellano · English
 
 ### › Proiektu nabarmenak
 
-🌐 **Enpresa-sare birtualizatua + zibersegurtasun tresneria**
-Sare osoa (LAN/DMZ/WAN) VPN, suebaki eta zerbitzuekin, hasieratik amaierara arte auditatua Python-eko tresna propioekin — ofentsiboak eta defentsiboak.
+🌐 **Sare birtualizatua + zibersegurtasun tresneria**
+Sare osoa (LAN/DMZ/WAN) VPN, suebaki eta zerbitzuekin, hasieratik amaierara arte auditatua Python-ekin egindako tresna propioekin, ofentsiboak eta defentsiboak.
 
 🗃️ **Kontuen kudeatzailea (C#)**
 Bertsio prozeduraletik objektuetara orientatura, pasahitz ahulen auditoretza modulu batekin. Ariketa bat proiektu bihurtu da refactoring-aren bidez.
