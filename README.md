@@ -55,8 +55,8 @@ idiomas:    Euskara · Castellano · English
 
 ### › Proyectos destacados
 
-🛡️ **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)** — red empresarial virtualizada + suite de ciberseguridad
-Red completa (LAN/DMZ/WAN) con OpenVPN (CA propia), firewall y servicios, auditada de principio a fin con herramientas propias en Python — ofensivas y defensivas. Incluye un pentest documentado ([writeup](https://iraitzaristi.github.io/#writeups/redpi/redpi-technova.md)).
+🛡️ **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: red virtualizada + suite de ciberseguridad
+Red completa (LAN/DMZ/WAN) con OpenVPN (CA propia), firewall y servicios, auditada de principio a fin con herramientas propias en Python, ofensivas y defensivas. Incluye un pentest documentado ([writeup](https://iraitzaristi.github.io/#writeups/redpi/redpi-technova.md)).
 › Código de las herramientas: **[redpi-tools](https://github.com/IraitzAristi/redpi-tools)**
 
 🗃️ **[Gestor de cuentas (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**
