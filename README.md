@@ -58,14 +58,14 @@ idiomas:    Euskara · Castellano · English
 
 ### › Proyectos destacados
 
-🛡️ **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)** — red virtualizada + suite de ciberseguridad
+🛡️ **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: Red virtualizada + suite de ciberseguridad
 Red completa (LAN/DMZ/WAN) con OpenVPN (CA propia), firewall y servicios, auditada de principio a fin con herramientas propias en Python, ofensivas y defensivas. Incluye un pentest documentado ([writeup](https://iraitzaristi.github.io/#writeups/redpi/redpi-technova.md)).
 › Código de las herramientas: **[redpi-tools](https://github.com/IraitzAristi/redpi-tools)**
 
-🕵️ **[NoName057(16) / DDoSia](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)** — perfil OSINT de actor de amenazas
+🕵️ **[NoName057(16) / DDoSia](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)**: Perfil OSINT de actor de amenazas
 Reconstrucción de la infraestructura documentada de C2 y gestión **solo con fuentes abiertas y consulta pasiva**, con niveles de confianza, mapeo a MITRE ATT&CK y export STIX/MISP.
 
-🐛 **Hallazgo validado** — OS Command Injection (CWE-78) en PeaZip 11.2.0
+🐛 **Hallazgo validado**: OS Command Injection (CWE-78) en PeaZip 11.2.0
 High (CVSS 7.1), reportado en el VDP de Secur0 ([certificado](https://app.secur0.com/certificate/ys3yqg-avrwaq-5ybnwl)). Divulgación conjunta.
 
 🗃️ **[Gestor de cuentas (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**
