@@ -14,7 +14,7 @@
 
 <p align="center">
   <b>Idiomas:</b>
-  <a href="README.md">Castellano</a> ·
+  <b>Castellano</b> ·
   <a href="README.eu.md">Euskara</a> ·
   <a href="README.en.md">English</a>
 </p>
@@ -27,6 +27,8 @@ Vengo de sistemas y redes (SMR, ahora ASIR) y me muevo hacia la **seguridad ofen
 
 Aprendo construyendo y destruyendo. Mis proyectos y writeups lo demuestran, ya que cada uno recorre un caso completo, desde la enumeración inicial hasta el objetivo, mapeado a **MITRE ATT&CK** y con la perspectiva de detección.
 
+Complemento lo ofensivo con el **análisis del adversario y la inteligencia de amenazas**: perfilado de actores con OSINT, solo fuentes abiertas y consulta pasiva.
+
 Actualmente estudio **ASIR** mientras resuelvo laboratorios en entornos controlados (Hack The Box, TryHackMe, CTFs) y participo en programas de **Bug Bounty / VDP**.
 
 ```yaml
@@ -34,6 +36,7 @@ rol:        Seguridad Ofensiva · Red Team (jr)
 cert:       eJPTv2 (INE Security)
 formación:  ASIR (en curso) · SMR
 enfoque:    pentesting · Active Directory · redes empresariales
+intereses:  análisis del adversario · threat intelligence · OSINT
 idiomas:    Euskara · Castellano · English
 ```
 
@@ -49,15 +52,21 @@ idiomas:    Euskara · Castellano · English
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 
-**Áreas:** pentesting · explotación web · Active Directory · redes (TCP/IP, LAN/DMZ) · CTF
+**Áreas:** pentesting · explotación web · Active Directory · redes (TCP/IP, LAN/DMZ) · OSINT · CTF
 
 ---
 
 ### › Proyectos destacados
 
-🛡️ **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: red virtualizada + suite de ciberseguridad
+🛡️ **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)** — red virtualizada + suite de ciberseguridad
 Red completa (LAN/DMZ/WAN) con OpenVPN (CA propia), firewall y servicios, auditada de principio a fin con herramientas propias en Python, ofensivas y defensivas. Incluye un pentest documentado ([writeup](https://iraitzaristi.github.io/#writeups/redpi/redpi-technova.md)).
 › Código de las herramientas: **[redpi-tools](https://github.com/IraitzAristi/redpi-tools)**
+
+🕵️ **[NoName057(16) / DDoSia](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)** — perfil OSINT de actor de amenazas
+Reconstrucción de la infraestructura documentada de C2 y gestión **solo con fuentes abiertas y consulta pasiva**, con niveles de confianza, mapeo a MITRE ATT&CK y export STIX/MISP.
+
+🐛 **Hallazgo validado** — OS Command Injection (CWE-78) en PeaZip 11.2.0
+High (CVSS 7.1), reportado en el VDP de Secur0 ([certificado](https://app.secur0.com/certificate/ys3yqg-avrwaq-5ybnwl)). Divulgación conjunta.
 
 🗃️ **[Gestor de cuentas (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**
 De procedural a orientado a objetos, con un módulo de auditoría de contraseñas débiles. Un ejercicio convertido en proyecto a base de refactorizar.
