@@ -58,20 +58,20 @@ languages: Euskara · Castellano · English
 
 ### › Featured projects
 
-🛡️ **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: Virtualized enterprise network + security toolkit
+**[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: Virtualized enterprise network + security toolkit
 Full network (LAN/DMZ/WAN) with OpenVPN (my own CA), firewall and services, audited end to end with my own Python tools, offensive and defensive. Includes a documented pentest ([writeup](https://iraitzaristi.github.io/#writeups/redpi/redpi-technova.md)).
 › Tooling code: **[redpi-tools](https://github.com/IraitzAristi/redpi-tools)**
 
-🕵️ **[NoName057(16) / DDoSia](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)**: OSINT threat actor profile
+**[NoName057(16) / DDoSia](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)**: OSINT threat actor profile
 Reconstruction of the documented C2 and management infrastructure **from open sources and passive querying only**, with confidence levels, MITRE ATT&CK mapping and STIX/MISP export.
 
-🐛 **[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: OS Command Injection in PeaZip (before 11.3.0)
+**[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: OS Command Injection in PeaZip (before 11.3.0)
 High (CVSS 7.1), published by MITRE. Joint disclosure.
 
-🗃️ **[Account manager (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**
+**[Account manager (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**
 From procedural to object-oriented, with a weak-password auditing module. An exercise turned into a project through refactoring.
 
-> 📄 Writeups and full detail on my **[portfolio](https://iraitzaristi.github.io)**.
+> Writeups and full detail on my **[portfolio](https://iraitzaristi.github.io)**.
 
 ---
 
