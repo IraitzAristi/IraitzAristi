@@ -60,12 +60,13 @@ hizkuntzak:  Euskara · Castellano · English
 
 **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: Sare birtualizatua + zibersegurtasun tresneria
 Sare osoa (LAN/DMZ/WAN) OpenVPN (CA propioa), suebaki eta zerbitzuekin, hasieratik amaierara arte auditatua Python-eko tresna propioekin, ofentsiboak eta defentsiboak. Pentest dokumentatu bat barne ([writeup](https://iraitzaristi.github.io/#writeups/redpi/redpi-technova.md)).
+
 › Tresnen kodea: **[redpi-tools](https://github.com/IraitzAristi/redpi-tools)**
 
 **[NoName057(16) / DDoSia](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)**: Ziberkriminal aktoreen OSINT profila
 C2 eta kudeaketa azpiegitura dokumentatuaren berreraikuntza, **fuente irekiak eta kontsulta pasiboa soilik** erabiliz, konfiantza-mailekin, MITRE ATT&CK mapeoarekin eta STIX/MISP esportazioarekin.
 
-**[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: SO komando injekzioa PeaZip-en (11.3.0 baino lehen)
+**[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: SE-an komando injekzioa PeaZip-en (11.3.0 baino lehen)
 High (CVSS 7.1), MITREk argitaratua. Dibulgazio bateratua.
 
 **[Kontuen kudeatzailea (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**
