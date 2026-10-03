@@ -65,8 +65,8 @@ Full network (LAN/DMZ/WAN) with OpenVPN (my own CA), firewall and services, audi
 🕵️ **[NoName057(16) / DDoSia](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)**: OSINT threat actor profile
 Reconstruction of the documented C2 and management infrastructure **from open sources and passive querying only**, with confidence levels, MITRE ATT&CK mapping and STIX/MISP export.
 
-🐛 **Validated finding**: OS Command Injection (CWE-78) in PeaZip 11.2.0
-High (CVSS 7.1), reported through Secur0's VDP ([certificate](https://app.secur0.com/certificate/ys3yqg-avrwaq-5ybnwl)). Joint disclosure.
+🐛 **[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: OS Command Injection in PeaZip (before 11.3.0)
+High (CVSS 7.1), published by MITRE. Joint disclosure.
 
 🗃️ **[Account manager (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**
 From procedural to object-oriented, with a weak-password auditing module. An exercise turned into a project through refactoring.
