@@ -65,8 +65,8 @@ Red completa (LAN/DMZ/WAN) con OpenVPN (CA propia), firewall y servicios, audita
 **[NoName057(16) / DDoSia](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)**: Perfil OSINT de actor de amenazas
 Reconstrucción de la infraestructura documentada de C2 y gestión **solo con fuentes abiertas y consulta pasiva**, con niveles de confianza, mapeo a MITRE ATT&CK y export STIX/MISP.
 
-**[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)** — SO komando-injekzioa PeaZip-en (11.3.0 baino lehen)
-High (CVSS 7.1), MITREk argitaratua. Dibulgazio bateratua..
+**[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: Inyección de comandos de SO en PeaZip (antes de 11.3.0)
+High (CVSS 7.1), publicado por MITRE. Divulgación conjunta.
 
 **[Gestor de cuentas (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**
 De procedural a orientado a objetos, con un módulo de auditoría de contraseñas débiles. Un ejercicio convertido en proyecto a base de refactorizar.
