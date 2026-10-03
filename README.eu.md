@@ -58,20 +58,20 @@ hizkuntzak:  Euskara · Castellano · English
 
 ### › Proiektu nabarmenak
 
-🛡️ **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: Sare birtualizatua + zibersegurtasun tresneria
+**[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: Sare birtualizatua + zibersegurtasun tresneria
 Sare osoa (LAN/DMZ/WAN) OpenVPN (CA propioa), suebaki eta zerbitzuekin, hasieratik amaierara arte auditatua Python-eko tresna propioekin, ofentsiboak eta defentsiboak. Pentest dokumentatu bat barne ([writeup](https://iraitzaristi.github.io/#writeups/redpi/redpi-technova.md)).
 › Tresnen kodea: **[redpi-tools](https://github.com/IraitzAristi/redpi-tools)**
 
-🕵️ **[NoName057(16) / DDoSia](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)**: Ziberkriminal aktoreen OSINT profila
+**[NoName057(16) / DDoSia](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)**: Ziberkriminal aktoreen OSINT profila
 C2 eta kudeaketa azpiegitura dokumentatuaren berreraikuntza, **fuente irekiak eta kontsulta pasiboa soilik** erabiliz, konfiantza-mailekin, MITRE ATT&CK mapeoarekin eta STIX/MISP esportazioarekin.
 
-🐛 **Aurkikuntza onartua**: OS Command Injection (CWE-78) PeaZip 11.2.0-n
-High (CVSS 7.1), Secur0-ren VDP-an jakinarazia ([ziurtagiria](https://app.secur0.com/certificate/ys3yqg-avrwaq-5ybnwl)). Dibulgazio bateratua.
+**[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: SO komando injekzioa PeaZip-en (11.3.0 baino lehen)
+High (CVSS 7.1), MITREk argitaratua. Dibulgazio bateratua.
 
-🗃️ **[Kontuen kudeatzailea (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**
+**[Kontuen kudeatzailea (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**
 Bertsio prozeduraletik objektuetara orientatura, pasahitz ahulen auditoretza modulu batekin. Ariketa bat proiektu bihurtu da refactoring-aren bidez.
 
-> 📄 Writeup-ak eta xehetasun osoa **[portfolioan](https://iraitzaristi.github.io)**.
+> Writeup-ak eta xehetasun osoa **[portfolioan](https://iraitzaristi.github.io)**.
 
 ---
 
