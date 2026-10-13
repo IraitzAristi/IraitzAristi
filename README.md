@@ -19,7 +19,7 @@
 
 Vengo de sistemas y redes (SMR, ahora ASIR) y me especializo en **seguridad ofensiva** e **inteligencia de amenazas**. Me interesa entender cómo se sostiene una infraestructura, por dónde falla y cómo la usan quienes la atacan.
 
-Aprendo construyendo y rompiendo: cada proyecto recorre un caso completo, mapeado a **MITRE ATT&CK** y con su perspectiva defensiva.
+Aprendo construyendo y destruyendo: cada proyecto recorre un caso completo, mapeado a **MITRE ATT&CK** y con su perspectiva defensiva.
 
 ```
 cve:        CVE-2026-105050 (PeaZip)
