@@ -24,7 +24,7 @@ Aprendo construyendo y destruyendo: cada proyecto recorre un caso completo, mape
 ```
 cve:        CVE-2026-105050 (PeaZip)
 formación:  ASIR (en curso) · SMR (modelo D, en Euskera)
-idiomas:    Euskara nativo (título B2) · Castellano nativo · English (~B1 conversational, ~B2 writing y reading)
+idiomas:    Euskara nativo · Castellano nativo · English (~B1 conversational, ~B2 writing y reading)
 ```
 
 ---
