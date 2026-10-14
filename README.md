@@ -38,7 +38,7 @@ idiomas:    Euskara nativo (título B2) · Castellano nativo · English (~B1 con
 ### › Proyectos destacados
 
 🛰️ **[Perfil de actor: NoName057(16) / DDoSia](https://github.com/IraitzAristi/osint-actor-profile)**: threat intelligence
-Reconstrucción pasiva (solo OSINT) de la infraestructura de C2 de un grupo hacktivista prorruso. Pipeline propio en Python que pivota indicadores por fuentes públicas, asigna confianza a cada relación y filtra el ruido. Exporta a **STIX 2.1** y **MISP**. Informe con valoraciones de confianza, TTPs en ATT&CK y fuentes graduadas (Admiralty).
+Reconstrucción pasiva (solo OSINT) de la infraestructura de C2 de un grupo underground muy conocido. Pipeline propio en Python que pivota indicadores por fuentes públicas, asigna confianza a cada relación y filtra el ruido. Exporta a **STIX 2.1** y **MISP**. Informe con valoraciones de confianza, TTPs en ATT&CK y fuentes graduadas (Admiralty).
 › [Leer el informe](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)
 
 🛡️ **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: red empresarial virtualizada + pentest
