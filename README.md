@@ -45,7 +45,7 @@ Reconstrucción pasiva (solo OSINT) de la infraestructura de C2 de un grupo hack
 Red LAN/DMZ/WAN con firewall MikroTik y OpenVPN sobre PKI propia, auditada con herramientas propias en Python. Pentest documentado de principio a fin, del reconocimiento a la shell en la DMZ.
 › [Writeup](https://iraitzaristi.github.io/#writeups/redpi/redpi-technova.md) · [Código](https://github.com/IraitzAristi/RedPi-Tools)
 
-📝 **[two·writers](https://two-writers.vercel.app)**: writeups de bug bounty y VDP, publicados en conjunto con [l3kimroot](https://l3kimroot.github.io).
+📝 **[two·writers](https://two-writers.vercel.app)**: writeups de bug bounty y VDP.
 
 🗃️ **[Gestor de cuentas (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**: de procedural a orientado a objetos, con un módulo de auditoría de contraseñas débiles. Un ejercicio convertido en proyecto a base de refactorizar.
 
