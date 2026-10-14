@@ -31,23 +31,23 @@ idiomas:    Euskara nativo (título B2) · Castellano nativo · English (~B1 con
 
 ### › Investigación
 
-🐞 **[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: inyección de comandos del sistema operativo en **PeaZip < 11.3.0** a través del nombre de un fichero dentro de un archivo comprimido. Descubrimiento y divulgación coordinada en conjunto, como investigador principal. Corregido en la versión 11.3.0.
+**[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: inyección de comandos del sistema operativo en **PeaZip < 11.3.0** a través del nombre de un fichero dentro de un archivo comprimido. Descubrimiento y divulgación coordinada en conjunto, como investigador principal. Corregido en la versión 11.3.0.
 
 ---
 
 ### › Proyectos destacados
 
-🛰️ **[Perfil de actor: NoName057(16) / DDoSia](https://github.com/IraitzAristi/osint-actor-profile)**: threat intelligence
+**[Perfil de actor: NoName057(16) / DDoSia](https://github.com/IraitzAristi/osint-actor-profile)**: threat intelligence
 Reconstrucción pasiva (solo OSINT) de la infraestructura de C2 de un grupo clandestino muy conocido en el mundo del cibercrimen. Pipeline en Python que pivota indicadores por fuentes públicas, asigna confianza a cada relación y filtra el ruido. Exporta a **STIX 2.1** y **MISP**. Informe con valoraciones de confianza, TTPs en ATT&CK y fuentes graduadas (Admiralty).
 › [Leer el informe](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)
 
-🛡️ **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: red empresarial virtualizada + pentest
+**[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: red empresarial virtualizada + pentest
 Red LAN/DMZ/WAN con firewall MikroTik y OpenVPN sobre PKI propia, auditada con herramientas propias en Python. Pentest documentado de principio a fin, del reconocimiento a la shell en la DMZ.
 › [Writeup](https://iraitzaristi.github.io/#writeups/redpi/redpi-technova.md) · [Código](https://github.com/IraitzAristi/RedPi-Tools)
 
-📝 **[two·writers](https://two-writers.vercel.app)**: writeups de bug bounty y VDP.
+**[two·writers](https://two-writers.vercel.app)**: writeups de bug bounty y VDP.
 
-🗃️ **[Gestor de cuentas (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**: de procedural a orientado a objetos, con un módulo de auditoría de contraseñas débiles. Un ejercicio convertido en proyecto a base de refactorizar.
+**[Gestor de cuentas (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**: de procedural a orientado a objetos, con un módulo de auditoría de contraseñas débiles. Un ejercicio convertido en proyecto a base de refactorizar.
 
 ---
 
