@@ -63,4 +63,4 @@ Red LAN/DMZ/WAN con firewall MikroTik y OpenVPN sobre PKI propia, auditada con h
 ![MISP](https://img.shields.io/badge/MISP-1F4E79?style=flat-square)
 ![STIX 2.1](https://img.shields.io/badge/STIX_2.1-4B5563?style=flat-square)
 
-**Áreas:** pentesting web · redes (TCP/IP, LAN/DMZ, VPN) · administración de Active Directory · OSINT · threat intelligence
+**Áreas:** pentesting · redes (TCP/IP, LAN/DMZ, VPN) · OSINT · threat intelligence
