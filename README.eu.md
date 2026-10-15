@@ -1,81 +1,66 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Iraitz+Aristi;Segurtasun+Ofentsiboa+%26+Red+Team;eJPTv2+%C2%B7+ASIR+ikaslea" alt="Iraitz Aristi">
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Segurtasun Ofentsiboa · Red Team · Active Directory</b>
-</p>
+# Iraitz Aristi
 
-<p align="center">
-  <a href="https://iraitzaristi.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/iraitz-a-897731297"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:iraitzaristi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+**Pentesting · Threat Intelligence · Sistemak eta Sareak**
 
-<p align="center">
-  <b>Hizkuntzak:</b>
-  <a href="README.md">Castellano</a> ·
-  <b>Euskara</b> ·
-  <a href="README.en.md">English</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white)](https://iraitzaristi.github.io)
+[![Writeups](https://img.shields.io/badge/Bug_Bounty_Writeups-111827?style=for-the-badge&logo=hackerone&logoColor=white)](https://two-writers.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iraitz-a-897731297)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iraitzaristi@gmail.com)
+
+**Hizkuntzak:** [Gaztelania](README.md) · Euskara
+
+</div>
 
 ---
 
 ### › Niri buruz
 
-Sistemetatik eta sareetatik nator (SMR, orain ASIR) eta **segurtasun ofentsiborantz eta red team-erantz** noa. Gauzek barrutik nola funtzionatzen duten ulertzea interesatzen zait: azpiegitura bat nola eusten den, non huts egiten duen eta nola erasotu (eta babestu).
+SMR ikasi nuen, eta orain ASIR ikasten ari naiz. **Segurtasun ofentsiboan** eta **mehatxuen inteligentzian** espezializatzen ari naiz. Interesatzen zait ulertzea nola funtzionatzen duen azpiegitura batek, non dituen ahuleziak eta nola erabiltzen duten erasotzaileek.
 
-Eraikiz eta suntsituz ikasten dut. Nire proiektuek eta writeup-ek hori erakusten dute, bakoitzak kasu oso bat jorratzen du, hasierako enumeraziotik helbururaino, **MITRE ATT&CK**-era mapeatuta eta detekzioaren ikuspegiarekin.
+Gauzak eraikiz eta apurtuz ikasten dut. Proiektu bakoitzak kasu oso bat erakusten du, **MITRE ATT&CK**-ekin eta defentsaren ikuspegiarekin.
 
-Alderdi ofentsiboa **adversarioaren analisiarekin eta mehatxu-adimenarekin** osatzen dut: aktoreen profilak OSINT bidez, fuente irekiak eta kontsulta pasiboa soilik erabiliz.
-
-Gaur egun **ASIR** gradua ikasten dut, ingurune kontrolatuetan laborategiak ebazten ditudan bitartean (Hack The Box, TryHackMe, CTFak) eta **Bug Bounty / VDP** programetan parte hartzen dut.
-
-```yaml
-rola:        Segurtasun Ofentsiboa · Red Team (jr)
-ziurtagiria: eJPTv2 (INE Security)
-formakuntza: ASIR (egiten) · SMR
-ardatza:     pentesting · Active Directory · enpresa-sareak
-interesak:   adversarioaren analisia · threat intelligence · OSINT
-hizkuntzak:  Euskara · Castellano · English
+```
+cve:          CVE-2026-105050 (PeaZip)
+ikasketak:    ASIR (ikasten) · SMR (D eredua)
+hizkuntzak:   Euskara (ama hizkuntza) · Gaztelania (ama hizkuntza) · Ingelesa (B2 Writing and reading · B1 hitz egin)
 ```
 
 ---
 
-### › Stack-a
+### › Ikerketa
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-
-**Arloak:** pentesting · web esplotazioa · Active Directory · sareak (TCP/IP, LAN/DMZ) · OSINT · CTF
+**[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: komandoak injektatzeko ahultasuna **PeaZip** programan (11.3.0 bertsioa baino lehen), fitxategi konprimatu baten barruko fitxategi baten izenaren bidez. Beste ikertzaile batekin batera aurkitu eta jakinarazi nuen, ikertzaile nagusi bezala. 11.3.0 bertsioan konpondu zuten.
 
 ---
 
-### › Proiektu nabarmenak
+### › Proiektu nagusiak
 
-**[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: Sare birtualizatua + zibersegurtasun tresneria
-Sare osoa (LAN/DMZ/WAN) OpenVPN (CA propioa), suebaki eta zerbitzuekin, hasieratik amaierara arte auditatua Python-eko tresna propioekin, ofentsiboak eta defentsiboak. Pentest dokumentatu bat barne ([writeup](https://iraitzaristi.github.io/#writeups/redpi/redpi-technova.md)).
+**[Aktore baten profila: NoName057(16) / DDoSia](https://github.com/IraitzAristi/osint-actor-profile)**: mehatxuen inteligentzia
+Errusiaren aldeko talde hacktibista baten C2 azpiegitura aztertu dut, iturri publikoak bakarrik erabiliz (OSINT). Python-eko programa batek adierazleak bilatzen ditu iturri publikoetan, erlazio bakoitzari konfiantza maila bat ematen dio eta zarata kentzen du. **STIX 2.1** eta **MISP** formatuetan esportatzen du. Txostenean konfiantza mailak, ATT&CK-eko TTPak eta iturrien balorazioa (Admiralty) daude.
+› [Txostena irakurri](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)
 
-› Tresnen kodea: **[redpi-tools](https://github.com/IraitzAristi/redpi-tools)**
+**[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: enpresa sare birtuala + pentesta
+LAN/DMZ/WAN sare bat, MikroTik firewall-arekin eta OpenVPN-arekin (nire PKI propioarekin). Nire Python tresnekin auditatu dut. Pentest osoa dokumentatuta dago, hasierako eskaneotik DMZko shell-era arte.
+› [Writeup-a](https://iraitzaristi.github.io/#writeups/redpi/redpi-technova.md) · [Kodea](https://github.com/IraitzAristi/RedPi-Tools)
 
-**[NoName057(16) / DDoSia](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)**: Ziberkriminal aktoreen OSINT profila
-C2 eta kudeaketa azpiegitura dokumentatuaren berreraikuntza, **fuente irekiak eta kontsulta pasiboa soilik** erabiliz, konfiantza-mailekin, MITRE ATT&CK mapeoarekin eta STIX/MISP esportazioarekin.
+**[two·writers](https://two-writers.vercel.app)**: bug bounty eta VDP writeup-ak.
 
-**[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: SE-an komando injekzioa PeaZip-en (11.3.0 baino lehen)
-High (CVSS 7.1), MITREk argitaratua. Dibulgazio bateratua.
-
-**[Kontuen kudeatzailea (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**
-Bertsio prozeduraletik objektuetara orientatura, pasahitz ahulen auditoretza modulu batekin. Ariketa bat proiektu bihurtu da refactoring-aren bidez.
-
-> Writeup-ak eta xehetasun osoa **[portfolioan](https://iraitzaristi.github.io)**.
+**[Kontu kudeatzailea (C#)](https://github.com/IraitzAristi/Bezero-Kontuen-Kudeatzailea-v2)**: programa prozeduraletik objektuetara pasatu nuen, eta pasahitz ahulak aztertzeko modulu bat gehitu nion. Klaseko ariketa bat zen, eta proiektu bihurtu nuen kodea berrantolatuz.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IraitzAristi&style=flat&color=8B5CF6" alt="profile views">
-</p>
+### › Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-1F4E79?style=flat-square)
+![STIX 2.1](https://img.shields.io/badge/STIX_2.1-4B5563?style=flat-square)
+
+**Arloak:** pentesting · sareak (TCP/IP, LAN/DMZ, VPN) · OSINT · mehatxuen inteligentzia
