@@ -31,7 +31,7 @@ hizkuntzak:   Euskara (ama hizkuntza) · Gaztelania (ama hizkuntza) · Ingelesa 
 
 ### › Ikerketa
 
-**[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: komandoak injektatzeko ahultasuna **PeaZip** programan (11.3.0 bertsioa baino lehen), fitxategi konprimatu baten barruko fitxategi baten izenaren bidez. Beste ikertzaile batekin batera aurkitu eta jakinarazi nuen, ikertzaile nagusi bezala. 11.3.0 bertsioan konpondu zuten.
+**[CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050)**: Sistema eragilean komandoak injektatzeko ahultasuna **PeaZip** programan (11.3.0 bertsioa baino lehen), fitxategi konprimatu baten barruko fitxategi baten izenaren bidez. Beste ikertzaile batekin batera aurkitu eta jakinarazi nuen, ikertzaile nagusi bezala. 11.3.0 bertsioan konpondu zuten.
 
 ---
 
