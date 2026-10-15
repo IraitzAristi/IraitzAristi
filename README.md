@@ -23,8 +23,8 @@ Aprendo construyendo y destruyendo: cada proyecto recorre un caso completo, mape
 
 ```
 cve:        CVE-2026-105050 (PeaZip)
-formación:  ASIR (en curso) · SMR (modelo D, en Euskera)
-idiomas:    Euskara nativo · Castellano nativo · English (~B1 conversational, ~B2 writing y reading)
+formación:  ASIR (en curso) · SMR (modelo D, en euskera)
+idiomas:    Euskara (nativo) · Castellano (nativo) · English (B2 Writing and Reading · B1 conversational)
 ```
 
 ---
@@ -38,7 +38,7 @@ idiomas:    Euskara nativo · Castellano nativo · English (~B1 conversational, 
 ### › Proyectos destacados
 
 **[Perfil de actor: NoName057(16) / DDoSia](https://github.com/IraitzAristi/osint-actor-profile)**: threat intelligence
-Reconstrucción pasiva (solo OSINT) de la infraestructura de C2 de un grupo clandestino muy conocido en el mundo del cibercrimen. Pipeline en Python que pivota indicadores por fuentes públicas, asigna confianza a cada relación y filtra el ruido. Exporta a **STIX 2.1** y **MISP**. Informe con valoraciones de confianza, TTPs en ATT&CK y fuentes graduadas (Admiralty).
+Reconstrucción pasiva (solo OSINT) de la infraestructura de C2 de un grupo hacktivista prorruso. Pipeline en Python que pivota indicadores por fuentes públicas, asigna confianza a cada relación y filtra el ruido. Exporta a **STIX 2.1** y **MISP**. Informe con valoraciones de confianza, TTPs en ATT&CK y fuentes graduadas (Admiralty).
 › [Leer el informe](https://iraitzaristi.github.io/#intel/noname057-ddosia.md)
 
 **[RedPi](https://iraitzaristi.github.io/#projects/red-empresarial-virtualizada.md)**: red empresarial virtualizada + pentest
