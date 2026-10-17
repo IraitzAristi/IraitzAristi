@@ -21,6 +21,8 @@ Vengo de sistemas y redes (SMR, ahora ASIR) y me especializo en **seguridad ofen
 
 Aprendo construyendo y destruyendo: cada proyecto recorre un caso completo, mapeado a **MITRE ATT&CK** y con su perspectiva defensiva.
 
+Actualmente estoy creando writeups de máquinas de **DockerLabs**, **TryHackMe** y **Hack The Box**, y un writeup de punto a punto del **CVE-2026-105050** con una simulación de ataque real.
+
 ```
 cve:        CVE-2026-105050 (PeaZip)
 formación:  ASIR (en curso) · SMR (modelo D, en euskera)
@@ -64,3 +66,7 @@ Red LAN/DMZ/WAN con firewall MikroTik y OpenVPN sobre PKI propia, auditada con h
 ![STIX 2.1](https://img.shields.io/badge/STIX_2.1-4B5563?style=flat-square)
 
 **Áreas:** pentesting · redes (TCP/IP, LAN/DMZ, VPN) · OSINT · threat intelligence
+
+---
+
+> El contenido del portfolio y los proyectos en inglés es traducido, el original está en castellano.
