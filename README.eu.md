@@ -21,6 +21,8 @@ SMR ikasi nuen, eta orain ASIR ikasten ari naiz. **Segurtasun ofentsiboan** eta 
 
 Gauzak eraikiz eta apurtuz ikasten dut. Proiektu bakoitzak kasu oso bat erakusten du, **MITRE ATT&CK**-ekin eta defentsaren ikuspegiarekin.
 
+Gaur egun **DockerLabs**, **TryHackMe** eta **Hack The Box** makinen writeup-ak sortzen ari naiz, eta **CVE-2026-105050**-ren puntuz puntuko writeup bat, benetako eraso-simulazio batekin.
+
 ```
 cve:          CVE-2026-105050 (PeaZip)
 ikasketak:    ASIR (ikasten) · SMR (D eredua)
@@ -64,3 +66,7 @@ LAN/DMZ/WAN sare bat, MikroTik firewall-arekin eta OpenVPN-arekin (nire PKI prop
 ![STIX 2.1](https://img.shields.io/badge/STIX_2.1-4B5563?style=flat-square)
 
 **Arloak:** pentesting · sareak (TCP/IP, LAN/DMZ, VPN) · OSINT · mehatxuen inteligentzia
+
+---
+
+> Portfolioko eta proiektuetako ingelesezko edukia itzulia dago, jatorrizkoa gaztelaniaz dago.
