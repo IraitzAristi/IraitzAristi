@@ -26,7 +26,7 @@ Gaur egun **DockerLabs**, **TryHackMe** eta **Hack The Box** makinen writeup-ak 
 ```
 cve:          CVE-2026-105050 (PeaZip)
 ikasketak:    ASIR (ikasten) · SMR (D eredua)
-hizkuntzak:   Euskara (ama hizkuntza) · Gaztelania (ama hizkuntza) · Ingelesa (B2 Writing and reading · B1 hitz egin)
+hizkuntzak:   Euskara (ama hizkuntza) · Gaztelania (ama hizkuntza) · Ingelesa (B2 Writing and reading · B1 conversational)
 ```
 
 ---
